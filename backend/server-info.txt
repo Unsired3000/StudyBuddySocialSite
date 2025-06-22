@@ -1,0 +1,1 @@
+Backend based on Node.js + Express + MongoDB, includes authentication, file upload, routes.

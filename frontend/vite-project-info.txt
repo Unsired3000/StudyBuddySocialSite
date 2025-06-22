@@ -1,0 +1,1 @@
+Frontend based on Vite + React with routing, context, dashboard UI.

@@ -1,0 +1,1 @@
+// FlashcardCard component logic here
