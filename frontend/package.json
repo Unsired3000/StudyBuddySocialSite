@@ -1,19 +1,16 @@
 {
-  "name": "studybuddy-frontend",
+  "name": "study-buddy-frontend",
   "version": "1.0.0",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
+  "private": true,
   "dependencies": {
-    "axios": "^1.6.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.21.1"
+    "react-router-dom": "^6.3.0",
+    "axios": "^0.27.2"
   },
-  "devDependencies": {
-    "@vitejs/plugin-react": "^4.0.0",
-    "vite": "^4.5.0"
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "dev": "vite"
   }
 }

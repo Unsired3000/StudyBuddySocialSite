@@ -1,0 +1,1 @@
+export const API_BASE_URL = 'https://study-buddy-api-4cvb.onrender.com';

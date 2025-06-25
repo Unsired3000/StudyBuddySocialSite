@@ -1,0 +1,1 @@
+export default function SimulationHub() { return <div>Simulation Hub</div>; }

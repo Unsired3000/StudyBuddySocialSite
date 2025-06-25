@@ -1,0 +1,1 @@
+export default function FlashcardList() { return <div>Flashcard List</div>; }
